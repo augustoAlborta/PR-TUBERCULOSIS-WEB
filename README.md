@@ -1,7 +1,11 @@
 # PR-TUBERCULOSIS-WEB
 
-## 1. Requsitos
+## 1. Requisitos
 Base de datos corriendo.
+instalar las dependecias en cada carpeta (servidor y cliente).
+```bash
+npm install
+```
 
 ## 2. Ejecucion de la API
 
